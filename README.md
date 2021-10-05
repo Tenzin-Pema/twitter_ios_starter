@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories: 
 
-<img src='https://github.com/Tenzin-Pema/twitter_ios_starter/twitter2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Tenzin-Pema/twitter_ios_starter/blob/main/twitter2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 # Twitter - Part I
 
